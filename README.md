@@ -26,7 +26,7 @@ Something for tasks.
 ​                        2.  尽管是新手也不要低声下气.
 
 
-## 2. Markdown在Typora中的使用
+## 2. 关于Markdown的学习
 
 1.  使用半角标点, 即英文标点(在标点后加上空格，符合规范且更美观)； 
 
