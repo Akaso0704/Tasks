@@ -2,7 +2,7 @@
 Something for tasks.
 
 [提问的智慧](https://github.com/Akaso0704/Tasks/blob/main/README.md#1-%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7)  
-[Markdown在Typora中的使用](https://github.com/Akaso0704/Tasks/blob/main/README.md#2-%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E5%AD%A6%E4%B9%A0)
+[关于Markdown的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#2-%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E5%AD%A6%E4%B9%A0)
 # 第一部分    
 
 ***
