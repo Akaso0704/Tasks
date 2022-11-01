@@ -1,5 +1,8 @@
 # Tasks
 Something for tasks.
+
+[提问的智慧](https://github.com/Akaso0704/Tasks/blob/main/README.md#1-%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7)  
+[Markdown在Typora中的使用](https://github.com/Akaso0704/Tasks/edit/main/README.md#2-markdown%E5%9C%A8typora%E4%B8%AD%E7%9A%84%E4%BD%BF%E7%94%A8)
 # 第一部分    
 
 ***
