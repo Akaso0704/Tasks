@@ -25,7 +25,6 @@ Something for tasks.
 
 ​                        2.  尽管是新手也不要低声下气.
 
-***
 
 ## 2. Markdown在Typora中的使用
 
