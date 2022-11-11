@@ -4,8 +4,8 @@ Something for tasks.
 [提问的智慧](https://github.com/Akaso0704/Tasks/blob/main/README.md#1-%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7)  
 [关于Markdown的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#2-%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E5%AD%A6%E4%B9%A0)  
 [Git基本命令](https://github.com/Akaso0704/Tasks/blob/main/README.md#1-git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4)  
-[Git建立本地仓库的多种方式](https://github.com/Akaso0704/Tasks/blob/main/README.md#2git%E5%BB%BA%E7%AB%8B%E6%9C%AC%E5%9C%B0%E4%BB%93%E5%BA%93%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F) 
-[关于HTML的学习]()
+[Git建立本地仓库的多种方式](https://github.com/Akaso0704/Tasks/blob/main/README.md#2git%E5%BB%BA%E7%AB%8B%E6%9C%AC%E5%9C%B0%E4%BB%93%E5%BA%93%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F)   
+[关于HTML的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Ehtml%E7%9A%84%E5%AD%A6%E4%B9%A0)
 # 第一部分    
 
 ***
