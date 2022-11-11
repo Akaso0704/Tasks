@@ -131,7 +131,7 @@ Something for tasks.
 | 水平线(Horizontal line) |    &lt;hr&gt;   |                           划分段落                           |
 |    定义(definition)     |&lt;html&gt;|              定义文档类型为html, 也被称为根元素              |
 |                         |&lt;body&gt; |                         定义主体内容                         |
-|                         |&lt;head&gt;|定义文档信息|
+|                         |&lt;head&gt;|定义文档信息. 包含的是浏览器需要的信息, 如标题, 说明, 关键字, 图标等|
 |     字体(Typeface)      |  &lt;b&gt;  |                             加粗                             |
 |                         |   &lt;i&gt;  |                             斜体                             |
 | 排版布局 | &lt;div&gt; | 类似于矩形框架, 里面可以放置多种内容 |
