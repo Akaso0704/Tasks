@@ -153,6 +153,6 @@ Something for tasks.
 ## 相关学习视频
 [HTML](https://www.bilibili.com/video/BV1vs411M7aT?vd_source=308f75e65a56a4178764712a7a39f643)
 ## 参考资料 
-[MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+[MDN(HTML相关)](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 
 
