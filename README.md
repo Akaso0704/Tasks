@@ -159,9 +159,9 @@ Something for tasks.
 * 元素(类型)选择器: 选定所有该类型元素.
 
 ```HTML
-  h1 {
+h1 {
        border: 5px;
-  }
+   }
 ```
 
 * id选择器: 选定对应带有id属性的元素
