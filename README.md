@@ -152,7 +152,7 @@ Something for tasks.
 
 * 通用选择器: 选择页面中的所有元素. 
 ```HTML
- * {
+* {
     color: blue;
 }
 ```
