@@ -150,7 +150,7 @@ Something for tasks.
 * 在HTML元素的style属性中添加(仅改变一个元素, 当HTML文件中元素较多时, 效率低).
 ### 3. CSS选择器
 
-* 通用选择器: 选择页面中的所有元素. 
+1. * 通用选择器: 选择页面中的所有元素. 
 ```HTML
 * {
     color: blue;
