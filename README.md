@@ -222,6 +222,16 @@ selector:pseudo-class {
 >  ## 三者的关系
 
 HTML用于控制网页的结构, CSS用于控制网页的外观, JavaScript控制的是网页的行为.
+> ## 关于DOM的学习
+
+### 1. 对DOM的认识
+
+* 文本对象模型(文档对象指的是HTML文件中的元素). 
+* 用来表示文本对象, 定义了访问 HTML 和 XML 文档(HTML文件的子集)的标准. 
+### 2.DOM结构
+![DOM结构](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic4.zhimg.com%2Fv2-a8332d94c6c17937fe809d466f39426b_b.jpg&refer=http%3A%2F%2Fpic4.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1670891815&t=08855f2cef6b13d820882d1db0f82a2e)
+
+
 
 
 
