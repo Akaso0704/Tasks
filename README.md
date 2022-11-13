@@ -1,9 +1,11 @@
 # Tasks
 Something for tasks.
-
+## 第一阶段
 * [提问的智慧](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7)  
-* [关于Markdown的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E5%AD%A6%E4%B9%A0)   
+* [关于Markdown的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E5%AD%A6%E4%B9%A0) 
+## 第二阶段
 * [Git的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#git%E7%9A%84%E5%AD%A6%E4%B9%A0)
+## 第三阶段
 * [关于HTML的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Ehtml%E7%9A%84%E5%AD%A6%E4%B9%A0)  
 * [关于CSS的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Ecss%E7%9A%84%E5%AD%A6%E4%B9%A0) 
 * [关于JavaScript的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Ejavascript%E7%9A%84%E5%AD%A6%E4%B9%A0) 
