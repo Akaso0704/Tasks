@@ -1,7 +1,7 @@
 # Tasks
 Something for tasks.
 ## 第一阶段
-* [提问的智慧](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7)  
+* [提问的智慧](https://github.com/Akaso0704/Tasks/blob/main/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5.md#%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7)  
 * [关于Markdown的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Emarkdown%E7%9A%84%E5%AD%A6%E4%B9%A0) 
 ## 第二阶段
 * [Git的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#git%E7%9A%84%E5%AD%A6%E4%B9%A0)
