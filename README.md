@@ -6,7 +6,7 @@ Something for tasks.
 ## 第二阶段
 * [Git的学习](https://github.com/Akaso0704/Tasks/blob/main/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5.md#git%E7%9A%84%E5%AD%A6%E4%B9%A0)
 ## 第三阶段
-* [关于HTML的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Ehtml%E7%9A%84%E5%AD%A6%E4%B9%A0)  
+* [关于HTML的学习](https://github.com/Akaso0704/Tasks/blob/main/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5.md#%E5%85%B3%E4%BA%8Ehtml%E7%9A%84%E5%AD%A6%E4%B9%A0)  
 * [关于CSS的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Ecss%E7%9A%84%E5%AD%A6%E4%B9%A0) 
 * [关于JavaScript的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Ejavascript%E7%9A%84%E5%AD%A6%E4%B9%A0) 
 * [关于DOM的学习](https://github.com/Akaso0704/Tasks/blob/main/README.md#%E5%85%B3%E4%BA%8Edom%E7%9A%84%E5%AD%A6%E4%B9%A0)
