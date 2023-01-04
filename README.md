@@ -13,7 +13,7 @@ Something for tasks.
 ## 第四阶段
 * [复刻页面](https://github.com/Akaso0704/Tasks/blob/main/index.html)
 ## 第五阶段
-* [关于Python的学习]()
+* [关于Python的学习](https://github.com/Akaso0704/Tasks/blob/main/%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5.md#%E5%85%B3%E4%BA%8Epython%E7%9A%84%E5%AD%A6%E4%B9%A0)
 ## 相关学习视频
 [HTML](https://www.bilibili.com/video/BV1vs411M7aT?vd_source=308f75e65a56a4178764712a7a39f643)
 ## 参考资料 
